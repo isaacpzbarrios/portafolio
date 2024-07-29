@@ -1,2 +1,2 @@
 # portafolio
-Portafolio - Curso AruraLatam Oracle One
+Portafolio - Curso AluraLatam Oracle One
